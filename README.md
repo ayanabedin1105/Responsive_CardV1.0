@@ -1,0 +1,1 @@
+This is a project containing a responsive CSS that makes the card design fit any screen with transition animation.
